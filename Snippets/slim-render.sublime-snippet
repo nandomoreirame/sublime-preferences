@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+= render "${1:header}"
+]]></content>
+    <description>Rails slim render</description>
+    <tabTrigger>render</tabTrigger>
+    <scope>source.slim</scope>
+</snippet>

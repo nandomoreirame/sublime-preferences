@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<%= render "${1:header}" %>
+]]></content>
+    <description>Rails erb render</description>
+    <tabTrigger>render</tabTrigger>
+    <scope>source.erb</scope>
+</snippet>

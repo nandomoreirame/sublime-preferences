@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+<h1 class="logo">
+	<a href="./"><img src="assets/images/logo.png" class="img-responsive" alt="logo"></a>
+</h1>
+]]></content>
+    <description>Default logo start</description>
+    <tabTrigger>logo</tabTrigger>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+<!-- .post-item -->
+<article class="post-item">
+	<a href="#" class="img-hover">
+		<img src="${1:assets/images/defaults/post-img.jpg}" alt="post-img">
+	</a>
+	<h2><a href="#">${2:Lorem ipsum dolor sit amet, conse.}</a></h2>
+</article>
+<!-- /.post-item -->
+]]></content>
+    <description>Simple article start</description>
+    <tabTrigger>article-start</tabTrigger>
+</snippet>
