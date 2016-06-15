@@ -1,0 +1,11 @@
+{
+	"extensions":
+	[
+		"sass",
+    "sass.erb",
+		"scss.erb",
+    "sass.liquid",
+		"scss.liquid",
+		"scss"
+	]
+}

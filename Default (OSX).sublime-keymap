@@ -1,0 +1,39 @@
+[
+  { "keys": ["ctrl+shift+."], "command": "erb", "context":
+    [
+      {
+        "key": "selector", "operator": "equal", "operand": "text.html.ruby, text.haml, source.yaml, source.css, source.scss, source.js, source.coffee"
+      }
+    ]
+  },
+  {
+    "keys": ["alt+s"],
+    "command": "sass_beautify"
+  },
+  {
+    "keys": ["super+shift+a"], "command": "align_tab",
+    "args" : {"live_preview" : true}
+  },
+  {
+    "keys": ["ctrl+alt+f"],
+    "command": "reindent"
+  },
+  {
+    "keys": ["f12"],
+    "command": "side_bar_open_in_browser" ,
+    "args":{"paths":[], "type":"testing", "browser":""}
+  },
+  {
+    "keys": ["alt+f12"],
+    "command": "side_bar_open_in_browser",
+    "args":{"paths":[], "type":"production", "browser":""}
+  },
+  {
+    "keys": ["ctrl+t"],
+    "command": "side_bar_new_file2"
+  },
+  {
+    "keys": ["f2"],
+    "command": "side_bar_rename"
+  }
+]

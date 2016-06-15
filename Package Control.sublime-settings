@@ -1,0 +1,55 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AlignTab",
+		"AutoFileName",
+		"Better CoffeeScript",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Comment-Snippets",
+		"CSS Format",
+		"EditorConfig",
+		"Emmet",
+		"Evernote",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Jade Snippets",
+		"Jekyll",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JSHint",
+		"JSX",
+		"LESS",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"Placeholders",
+		"ProductiveSnippetsERB",
+		"Rake",
+		"Ruby Slim",
+		"Sass",
+		"SASS Snippets",
+		"SassBeautify",
+		"SexySnippets",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeERB",
+		"SublimeLinter",
+		"SublimeLinter-jsxhint",
+		"TrailingSpaces",
+		"Twig",
+		"WakaTime",
+		"WordPress"
+	],
+	"repositories":
+	[
+		"https://github.com/n1k0/SublimeHighlight"
+	]
+}

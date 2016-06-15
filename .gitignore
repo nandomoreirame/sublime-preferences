@@ -1,0 +1,6 @@
+.DS_Store
+*.merged-ca-bundle
+Package Control.cache
+WakaTime.sublime-settings
+Evernote.sublime-settings
+SublimeLinter
