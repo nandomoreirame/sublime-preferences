@@ -8,5 +8,5 @@
 }
 ]]></content>
     <description>mixin opacity</description>
-    <tabTrigger>opacity</tabTrigger>
+    <tabTrigger>mixin-opacity</tabTrigger>
 </snippet>

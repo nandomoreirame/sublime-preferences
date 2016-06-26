@@ -9,5 +9,5 @@
 }
 ]]></content>
     <description>Mixin background size</description>
-    <tabTrigger>bg-size</tabTrigger>
+    <tabTrigger>mixin-bg-size</tabTrigger>
 </snippet>

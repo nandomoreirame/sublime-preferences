@@ -14,5 +14,5 @@
 }
 ]]></content>
     <description>mixin clearfix</description>
-    <tabTrigger>clearfix</tabTrigger>
+    <tabTrigger>mixin-clearfix</tabTrigger>
 </snippet>
