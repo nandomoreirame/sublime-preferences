@@ -1,4 +1,5 @@
 .DS_Store
+*.last-run
 *.merged-ca-bundle
 Package Control.cache
 WakaTime.sublime-settings

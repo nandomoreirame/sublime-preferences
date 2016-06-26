@@ -7,6 +7,9 @@
     ]
   },
   {
+    "keys": ["ctrl+shift+s"], "command": "save_all"
+  },
+  {
     "keys": ["alt+s"],
     "command": "sass_beautify"
   },

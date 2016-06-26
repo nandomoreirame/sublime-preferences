@@ -35,6 +35,7 @@
 		"*.tar",
 		"*.DS_Store",
 		"*.class",
+		"*.codekit",
 		"*.db"
 	],
 	"folder_exclude_patterns":
@@ -57,7 +58,7 @@
 	[
 		"gray_antialias"
 	],
-	"font_size": 13,
+	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -80,6 +81,5 @@
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
-	"wrap_width": 160
+	"word_wrap": true
 }
