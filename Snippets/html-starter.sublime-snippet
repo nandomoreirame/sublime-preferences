@@ -11,6 +11,15 @@
     <title>${1:Title}</title>
 
     <link type="text/css" href="./assets/css/${2:main}.css" rel="stylesheet">
+
+    <script>
+      (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+      function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+      e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+      e.src='//www.google-analytics.com/analytics.js';
+      r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+      ga('create','UA-${5:XXXXX-X}');ga('send','pageview');
+    </script>
   </head>
   <body>
 
@@ -18,9 +27,10 @@
       <h1>${3:Hello World!}</h1>
     </div>
 
+
     <script src="./assets/js/${4:main}.js"></script>
   </body>
-</html><!-- by @nandomoreira.me -->]]></content>
+</html>${6:<!-- by @nandomoreira.me -->}]]></content>
   <description>HTML5 starter template</description>
   <tabTrigger>html5</tabTrigger>
 </snippet>
