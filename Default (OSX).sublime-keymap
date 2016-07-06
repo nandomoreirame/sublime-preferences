@@ -47,5 +47,7 @@
   {
     "keys": ["super+shift+k"],
     "command": "beautify_ruby"
-  }
+  },
+  {"keys": ["super+shift+g"], "command": "go_translate"},
+  {"keys": ["super+shift+alt+g"], "command": "go_translate_to"}
 ]

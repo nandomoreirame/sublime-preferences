@@ -2,7 +2,7 @@
 	"always_show_minimap_viewport": true,
 	"auto_indent": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Material-Theme-Darker-OceanicNext (SL).tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/OLD/Material-Theme-Darker.tmTheme",
 	"detect_indentation": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "UTF-8",
@@ -58,7 +58,7 @@
 	[
 		"gray_antialias"
 	],
-	"font_size": 11,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -70,8 +70,8 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
 	"material_theme_accent_yellow": true,
 	"material_theme_contrast_mode": true,
 	"material_theme_panel_separator": true,
